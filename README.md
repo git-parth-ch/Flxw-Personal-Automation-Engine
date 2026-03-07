@@ -1,6 +1,6 @@
 # Flxw — Personal Automation Engine
 
-> A powerful Android automation app that runs rules silently in the background — even when the app is closed.
+> A powerful Android automation app that runs rules silently in the background , even when the app is closed.
 
 ---
 
