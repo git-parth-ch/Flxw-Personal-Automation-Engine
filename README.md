@@ -20,15 +20,15 @@ Once a rule is saved and enabled, you never need to open the app again.
 
 | Dashboard | Logs |
 |---|---|
-| ![Dashboard](screenshots/Dashboard.jpg) | ![Logs](screenshots/Logs.jpg) |
+| ![Dashboard](Screenshots/Dashboard.jpg) | ![Logs](Screenshots/Logs.jpg) |
 
 | Rule Creation | Rule Wizard |
 |---|---|
-| ![Rule Creation](screenshots/Rule%20Creation.jpg) | ![Rule Wizard](screenshots/Rule%20Wizard.jpg) |
+| ![Rule Creation](Screenshots/Rule%20Creation.jpg) | ![Rule Wizard](Screenshots/Rule%20Wizard.jpg) |
 
 | Rule Detail | Notification |
 |---|---|
-| ![Rule Detail](screenshots/Rule%20Detail.jpg) | ![Notification](screenshots/Notification.jpg) |
+| ![Rule Detail](Screenshots/Rule%20Detail.jpg) | ![Notification](Screenshots/Notification.jpg) |
 
 > 
 
