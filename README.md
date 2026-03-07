@@ -18,6 +18,18 @@ Once a rule is saved and enabled, you never need to open the app again.
 
 ## Screenshots
 
+| Dashboard | Logs |
+|---|---|
+| ![Dashboard](screenshots/Dashboard.jpg) | ![Logs](screenshots/Logs.jpg) |
+
+| Rule Creation | Rule Wizard |
+|---|---|
+| ![Rule Creation](screenshots/Rule%20Creation.jpg) | ![Rule Wizard](screenshots/Rule%20Wizard.jpg) |
+
+| Rule Detail | Notification |
+|---|---|
+| ![Rule Detail](screenshots/Rule%20Detail.jpg) | ![Notification](screenshots/Notification.jpg) |
+
 > 
 
 ---
@@ -130,4 +142,3 @@ adb install app/build/outputs/apk/debug/app-debug.apk
 
 - **Min SDK: API 26** (Android 8.0 Oreo) — covers ~95% of active devices
 - **Target SDK: API 34** (Android 14)
-```
