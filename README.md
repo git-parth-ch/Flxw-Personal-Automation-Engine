@@ -18,7 +18,7 @@ Once a rule is saved and enabled, you never need to open the app again.
 
 ## Screenshots
 
-> *(Add your screenshots here)*
+> 
 
 ---
 
