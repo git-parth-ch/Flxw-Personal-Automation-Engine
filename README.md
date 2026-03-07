@@ -113,7 +113,7 @@ adb install app/build/outputs/apk/debug/app-debug.apk
 
 ## Download
 
-👉 [Download latest APK](https://github.com/git-parth-ch/flxw-automation/releases/tag/v1.0)
+👉 [Download latest APK](https://github.com/git-parth-ch/Flxw-Personal-Automation-App/releases/tag/v1.0)
 
 ---
 
