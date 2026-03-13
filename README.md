@@ -115,7 +115,7 @@ WorkManager tick
 
 ### Run locally
 ```bash
-git clone https://github.com/YOUR_USERNAME/flxw-automation.git
+git clone [https://github.com/YOUR_USERNAME/flxw-automation.git](https://github.com/git-parth-ch/Flxw-Personal-Automation-Engine.git)
 cd flxw-automation
 ./gradlew assembleDebug
 adb install app/build/outputs/apk/debug/app-debug.apk
